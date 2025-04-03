@@ -1,7 +1,14 @@
 # 📍 TrampoLocal - Radar de Oportunidades
 
+<p align="center">
+  <img src="assets/banner.png" width="1000">
+</p>
+
+
 > 🧪 MVP do Projeto Integrador - Talento Tech 2025  
 > Um mapa digital com vagas de emprego em tempo real para Jardim Alegre/PR e região.
+🔗 [Acesse o TrampoLocal online](https://trampolocal.streamlit.app)
+
 
 ---
 
@@ -79,9 +86,9 @@ Através de visualização interativa e informações atualizadas, o projeto bus
 
 ## 🗂️ Como rodar o projeto localmente
 
-`ash
+```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/trampolocal.git
+git clone https://github.com/UelitonFOX/trampolocal.git
 cd trampolocal
 
 # Instalar dependências
@@ -89,7 +96,8 @@ pip install -r requirements.txt
 
 # Rodar localmente
 streamlit run app.py
-`
+```
+
 
 ---
 
