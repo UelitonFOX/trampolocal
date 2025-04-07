@@ -1,0 +1,37 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/*.json
+.streamlit/*.lock
+
+# VS Code settings
+.vscode/
+
+# Arquivos temporários
+*.swp
+*.tmp
+*.bak
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de testes e relatórios
+*.coverage
+*.pytest_cache/
+htmlcov/
+
+# Arquivos específicos do projeto
+assets/logo*.bak.png
